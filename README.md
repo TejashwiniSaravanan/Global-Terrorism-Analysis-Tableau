@@ -6,6 +6,7 @@ This project analyzes the Global Terrorism Database (GTD) to identify patterns, 
 
  🔗 **Interactive Dashboard:** [View Live on Tableau Public](https://public.tableau.com/app/profile/tejashwini.saravanan/viz/TheGlobalTerrorsim/TheGlobalTerrorism)
 
+
 ## 🎯 Objective
 
   * To analyze the distribution and categories of terrorism acts worldwide.
@@ -24,21 +25,13 @@ This project analyzes the Global Terrorism Database (GTD) to identify patterns, 
   *  Data Cleaning: Addressed missing values and standardized regional naming conventions to ensure accurate geospatial mapping across South Asia, Europe, and the USA.
   *  Metric Calculation: Created calculated fields for "Successful Attacks" and "Kill Success Rates" to identify patterns among the 181,691 recorded cases
 
-### ☁️ Why Use Google Drive?
+☁️ **Note on Data Access:** Because the database contains over 181,000 records, the file size exceeds GitHub’s 100 MB upload limit. The Cleaned Dataset is hosted securely on Google Drive. This allows reviewers to inspect the exact data used to generate the metrics without compromising the repository's speed.
 
-* File Size Constraints: Because the database contains over 181,000 records, the file size exceeds GitHub’s 100 MB upload limit.
-* Analytical Integrity: Hosting the cleaned file on Google Drive allows recruiters to inspect the exact data used to generate the 411,868 total deaths and 523,870 wounded metrics without compromising the repository's speed
-
-## ⚙️ Technical Methodology
-
-* Data Cleaning (MS Excel): Performed rigorous data manipulation and dimensionality reduction, narrowing the original 135 variables down to high-impact columns to optimize dashboard performance.
-* Descriptive Analysis: Summarized over 181,691 records to identify emerging patterns in weapon usage and regional lethality, transforming raw data into meaningful business intelligence.
-* Visualization (Tableau): Developed an interactive dashboard featuring density maps, area charts, and histograms to answer key security questions regarding the 411,868 lives lost and regional impact
 
 ## 💡 Key Insights
 
 * Regional Impact: South Asia represents the most volatile region, with 147.58K total attacks, significantly higher than Western Europe (56.22K) or North America (14.11K).
-* Lethality: While explosives are used most frequently (92,426 times), firearms have caused a nearly equal number of fatalities (~174K each).
+* Lethality Patterns: While explosives are the most frequently deployed weapon (92,426 incidents), firearms have caused a nearly equal number of fatalities (~174K each), indicating a significantly higher death-per-incident rate for firearms.
 * Success Rates: Iraq has faced the highest volume of successful attacks, totaling 21.36K incidents.
 * Total Human Cost: The study tracks a total of 411,868 lives lost and 523,870 individuals wounded within the study period
 
