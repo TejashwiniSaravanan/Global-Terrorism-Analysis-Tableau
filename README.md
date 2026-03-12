@@ -2,10 +2,11 @@
 
 ## 📝 Project Overview 
 
-This project analyzes the Global Terrorism Database (GTD) to identify patterns, trends, and regional hotspots of terrorist activity over nearly five decades. By visualizing this complex data, the project aims to provide a logical, data-driven understanding of global security challenges to help inform strategic counter-terrorism efforts
+This project analyzes the Global Terrorism Database (GTD) to identify patterns, trends, and regional hotspots of terrorist activity over nearly five decades. By visualizing this complex data, the project aims to provide a logical, data-driven understanding of global security challenges to help inform strategic counter-terrorism efforts 
 
  🔗 **Interactive Dashboard:** [View Live on Tableau Public](https://public.tableau.com/app/profile/tejashwini.saravanan/viz/TheGlobalTerrorsim/TheGlobalTerrorism)
 
+<a href="https://public.tableau.com/app/profile/tejashwini.saravanan/viz/TheGlobalTerrorsim/TheGlobalTerrorism"><img src="dashboard_preview.png" alt="Tableau Dashboard Preview" width="600"/></a>
 
 ## 🎯 Objective
 
@@ -47,7 +48,7 @@ This repository is organized to provide a clear path from raw data to visual ins
 * The Global Terrorism.twbx: The original Tableau Packaged Workbook for technical review of the dashboard.
 * Data Access: Since the dataset exceeds 100 MB, the cleaned Excel file is hosted on Google Drive (see link above).
 * README.md: This main landing page providing the project's objective, methodology, and key insights like the 411,868 total human cost.
-
+* dashboard_preview.png: The image file used for the dashboard preview on this page
 ## 👤 Author
 Tejashwini Saravanan
 [LinkedIn](https://www.linkedin.com/in/tejashwinisaravanan/)
