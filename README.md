@@ -11,7 +11,7 @@ A Tableau dashboard analyzing 181,691 terrorism records across 47 years, built t
 </p>
 
 ---
-
+ 
 ## Overview
 
 This project analyzes the Global Terrorism Database (GTD), one of the most comprehensive open-source databases on terrorist activity, to surface patterns across nearly five decades of recorded incidents (1970–2017).
